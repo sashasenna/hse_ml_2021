@@ -9,7 +9,7 @@
 |------|------|--------|---------|--------------------|
 |18 ноя|Введение и основные задачи| [Lecture 1](lectures/Lecture1) | | |
 |02 дек|Линейная регрессия| [Lecture 2](lectures/Lecture2_lr.pdf) | [Seminar 2](practicals/sem_2_empty.ipynb) | [Seminar 2](practicals/sem_2_full.ipynb) | 
-|09 дек|Градиентные методы обучения| [Lecture 3](lectures/Lecture3_gd.pdf) | [Seminar 3](practicals/sem_3_empty.ipynb) | Seminar 3](practicals/sem_3_full.ipynb) | 
+|09 дек|Градиентные методы обучения| [Lecture 3](lectures/Lecture3_gd.pdf) | [Seminar 3](practicals/sem_3_empty.ipynb) | [Seminar 3](practicals/sem_3_full.ipynb) | 
 |16 дек|Линейная классификация и метрики качества классификации| | | | 
 |23 дек|Логистическая регрессия и SVM| | | |
 |30 дек|Многоклассовая классификация, работа с категориальными признаками и текстами| | | |
