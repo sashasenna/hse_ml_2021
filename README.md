@@ -10,7 +10,7 @@
 |18 ноя|Введение и основные задачи| [Lecture 1](lectures/Lecture1) | | |
 |02 дек|Линейная регрессия| [Lecture 2](lectures/Lecture2_lr.pdf) | [Seminar 2](practicals/sem_2_empty.ipynb) | [Seminar 2](practicals/sem_2_full.ipynb) | 
 |09 дек|Градиентные методы обучения| [Lecture 3](lectures/Lecture3_gd.pdf) | [Seminar 3](practicals/sem_3_empty.ipynb) | [Seminar 3](practicals/sem_3_full.ipynb) | 
-|16 дек|Линейная классификация и метрики качества классификации| [Lecture 4](lectures/Lecture4-linclass.pdf) | [Seminar 4](practicals/sem_4_empty.ipynb) | | 
+|16 дек|Линейная классификация и метрики качества классификации| [Lecture 4](lectures/Lecture4-linclass.pdf) | [Seminar 4](practicals/sem_4_empty.ipynb) | [Seminar 4](practicals/sem_4_full.ipynb) | 
 |23 дек|Логистическая регрессия и SVM| | | |
 |30 дек|Многоклассовая классификация, работа с категориальными признаками и текстами| | | |
 | |Решающие деревья| | | |
@@ -33,7 +33,7 @@
 |----------------|---------|---------|-------------|
 |  24.11.2021  |[HW 0](https://github.com/weaselcmc/ml_dpo_2021/tree/master/hw/hw0)|09.12.2021  23:30| Загрузить ноутбук в Anytask|
 |  03.12.2021  |[HW 1](https://github.com/weaselcmc/ml_dpo_2021/tree/master/hw/hw1)|17.12.2021  23:30| Загрузить ноутбук в Anytask|
-|  17.12.2021  |[HW 3](https://github.com/weaselcmc/ml_dpo_2021/tree/master/hw/hw3)|13.01.2022  23:30| Загрузить ноутбук в Anytask|
+|  17.12.2021  |[HW 2](https://github.com/weaselcmc/ml_dpo_2021/tree/master/hw/hw2)|13.01.2022  23:30| Загрузить ноутбук в Anytask|
 | |[HW 3](https://github.com/weaselcmc/ml_dpo_2021/tree/master/hw/hw3)| | Загрузить ноутбук в Anytask|
 | |[HW 4](https://github.com/weaselcmc/ml_dpo_2021/tree/master/hw/hw4)| | Загрузить ноутбук в Anytask|
 | |[HW 5](https://github.com/weaselcmc/ml_dpo_2021/tree/master/hw/hw5)| | Загрузить ноутбук в Anytask|
