@@ -11,7 +11,7 @@
 |02 дек|Линейная регрессия| [Lecture 2](lectures/Lecture2_lr.pdf) | [Seminar 2](practicals/sem_2_empty.ipynb) | [Seminar 2](practicals/sem_2_full.ipynb) | 
 |09 дек|Градиентные методы обучения| [Lecture 3](lectures/Lecture3_gd.pdf) | [Seminar 3](practicals/sem_3_empty.ipynb) | [Seminar 3](practicals/sem_3_full.ipynb) | 
 |16 дек|Линейная классификация и метрики качества классификации| [Lecture 4](lectures/Lecture4-linclass.pdf) | [Seminar 4](practicals/sem_4_empty.ipynb) | [Seminar 4](practicals/sem_4_full.ipynb) | 
-|23 дек|Логистическая регрессия и SVM| | | |
+|23 дек|Логистическая регрессия и SVM| [Lecture 5](lectures/Lecture5_LogReg_SVM.pdf) | [Seminar 5](practicals/sem_5_empty.ipynb) | | 
 |30 дек|Многоклассовая классификация, работа с категориальными признаками и текстами| | | |
 | |Решающие деревья| | | |
 | |Бэггинг и случайные леса| | | |
