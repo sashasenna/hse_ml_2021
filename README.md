@@ -13,7 +13,7 @@
 |16 дек|Линейная классификация и метрики качества классификации| [Lecture 4](lectures/Lecture4-linclass.pdf) | [Seminar 4](practicals/sem_4_empty.ipynb) | [Seminar 4](practicals/sem_4_full.ipynb) | 
 |23 дек|Логистическая регрессия и SVM| [Lecture 5](lectures/Lecture5_LogReg_SVM.pdf) | [Seminar 5](practicals/sem_5_empty.ipynb) | [Seminar 5](practicals/sem_5_full.ipynb) | 
 |13 янв |Многоклассовая классификация, работа с категориальными признаками и текстами| [Lecture 6](lectures/Lecture6-multiclass.pdf) | [Seminar 6](practicals/sem_6_empty.ipynb) | [Seminar 6](practicals/sem_6_full.ipynb) |
-| |Решающие деревья| | | |
+|20 янв |Решающие деревья| [Lecture 7](lectures/Lecture7_trees.pdf) | [Seminar 7](practicals/sem_7_empty.ipynb) | |
 | |Бэггинг и случайные леса| | | |
 | |Градиентный бустинг| | | |
 | |Градиентный бустинг: имплементации| | | |
