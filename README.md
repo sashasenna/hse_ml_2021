@@ -14,7 +14,7 @@
 |23 дек|Логистическая регрессия и SVM| [Lecture 5](lectures/Lecture5_LogReg_SVM.pdf) | [Seminar 5](practicals/sem_5_empty.ipynb) | [Seminar 5](practicals/sem_5_full.ipynb) | 
 |13 янв |Многоклассовая классификация, работа с категориальными признаками и текстами| [Lecture 6](lectures/Lecture6-multiclass.pdf) | [Seminar 6](practicals/sem_6_empty.ipynb) | [Seminar 6](practicals/sem_6_full.ipynb) |
 |20 янв |Решающие деревья| [Lecture 7](lectures/Lecture7_trees.pdf) | [Seminar 7](practicals/sem_7_empty.ipynb) | [Seminar 7](practicals/sem_7_full.ipynb) |
-|27 янв |Бэггинг и случайные леса| | | |
+|27 янв |Бэггинг и случайные леса| [Lecture 8](lectures/Lecture8_ensembles.pdf) | [Seminar 8](practicals/sem_8.ipynb) | |
 | |Градиентный бустинг| | | |
 | |Градиентный бустинг: имплементации| | | |
 | |Отбор признаков и понижение размерности| | | |
