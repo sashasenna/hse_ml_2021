@@ -12,9 +12,9 @@
 |09 дек|Градиентные методы обучения| [Lecture 3](lectures/Lecture3_gd.pdf) | [Seminar 3](practicals/sem_3_empty.ipynb) | [Seminar 3](practicals/sem_3_full.ipynb) | 
 |16 дек|Линейная классификация и метрики качества классификации| [Lecture 4](lectures/Lecture4-linclass.pdf) | [Seminar 4](practicals/sem_4_empty.ipynb) | [Seminar 4](practicals/sem_4_full.ipynb) | 
 |23 дек|Логистическая регрессия и SVM| [Lecture 5](lectures/Lecture5_LogReg_SVM.pdf) | [Seminar 5](practicals/sem_5_empty.ipynb) | [Seminar 5](practicals/sem_5_full.ipynb) | 
-| |Многоклассовая классификация, работа с категориальными признаками и текстами| | | |
-| |Решающие деревья| | | |
-| |Бэггинг и случайные леса| | | |
+|13 янв |Многоклассовая классификация, работа с категориальными признаками и текстами| [Lecture 6](lectures/Lecture6-multiclass.pdf) | [Seminar 6](practicals/sem_6_empty.ipynb) | [Seminar 6](practicals/sem_6_full.ipynb) |
+|20 янв |Решающие деревья| [Lecture 7](lectures/Lecture7_trees.pdf) | [Seminar 7](practicals/sem_7_empty.ipynb) | [Seminar 7](practicals/sem_7_full.ipynb) |
+|27 янв |Бэггинг и случайные леса| [Lecture 8](lectures/Lecture8_ensembles.pdf) | [Seminar 8](practicals/sem_8.ipynb) | |
 | |Градиентный бустинг| | | |
 | |Градиентный бустинг: имплементации| | | |
 | |Отбор признаков и понижение размерности| | | |
@@ -34,8 +34,8 @@
 |  24.11.2021  |[HW 0](https://github.com/weaselcmc/hse_ml_2021/tree/master/hw/hw0)|09.12.2021  23:30| Загрузить ноутбук в Anytask|
 |  03.12.2021  |[HW 1](https://github.com/weaselcmc/hse_ml_2021/tree/master/hw/hw1)|17.12.2021  23:30| Загрузить ноутбук в Anytask|
 |  17.12.2021  |[HW 2](https://github.com/weaselcmc/hse_ml_2021/tree/master/hw/hw2)|13.01.2022  23:30| Загрузить ноутбук в Anytask|
-|  24.12.2021  |[HW 3](https://github.com/weaselcmc/hse_ml_2021/tree/master/hw/hw3)|21.01.2022  23:30| Загрузить ноутбук в Anytask|
-| |[HW 4](https://github.com/weaselcmc/hse_ml_2021/tree/master/hw/hw4)| | Загрузить ноутбук в Anytask|
+|  24.12.2021  |[HW 3](https://github.com/weaselcmc/hse_ml_2021/tree/master/hw/hw3)|30.01.2022  23:30| Загрузить ноутбук в Anytask|
+|  21.01.2022  |[HW 4](https://github.com/weaselcmc/hse_ml_2021/tree/master/hw/hw4)|13.02.2022  23:30| Загрузить ноутбук в Anytask|
 | |[HW 5](https://github.com/weaselcmc/hse_ml_2021/tree/master/hw/hw5)| | Загрузить ноутбук в Anytask|
 | |[HW 6](https://github.com/weaselcmc/hse_ml_2021/tree/master/hw/hw6)| | Загрузить ноутбук в Anytask|
 
