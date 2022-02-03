@@ -15,7 +15,7 @@
 |13 янв |Многоклассовая классификация, работа с категориальными признаками и текстами| [Lecture 6](lectures/Lecture6-multiclass.pdf) | [Seminar 6](practicals/sem_6_empty.ipynb) | [Seminar 6](practicals/sem_6_full.ipynb) |
 |20 янв |Решающие деревья| [Lecture 7](lectures/Lecture7_trees.pdf) | [Seminar 7](practicals/sem_7_empty.ipynb) | [Seminar 7](practicals/sem_7_full.ipynb) |
 |27 янв |Бэггинг и случайные леса| [Lecture 8](lectures/Lecture8_ensembles.pdf) | [Seminar 8](practicals/sem_8.ipynb) | |
-| |Градиентный бустинг| | | |
+|03 фев |Градиентный бустинг| [Lecture 9](lectures/Lecture9_gradboost.pdf) | [Seminar 9](practicals/sem_9.ipynb) | |
 | |Градиентный бустинг: имплементации| | | |
 | |Отбор признаков и понижение размерности| | | |
 | |Кластеризация| | | |
