@@ -35,9 +35,9 @@
 |  03.12.2021  |[HW 1](https://github.com/weaselcmc/hse_ml_2021/tree/master/hw/hw1)|17.12.2021  23:30| Загрузить ноутбук в Anytask|
 |  17.12.2021  |[HW 2](https://github.com/weaselcmc/hse_ml_2021/tree/master/hw/hw2)|13.01.2022  23:30| Загрузить ноутбук в Anytask|
 |  24.12.2021  |[HW 3](https://github.com/weaselcmc/hse_ml_2021/tree/master/hw/hw3)|30.01.2022  23:30| Загрузить ноутбук в Anytask|
-|  21.01.2022  |[HW 4](https://github.com/weaselcmc/hse_ml_2021/tree/master/hw/hw4)|13.02.2022  23:30| Загрузить ноутбук в Anytask|
-|  07.02.2022  |[HW 5](https://github.com/weaselcmc/hse_ml_2021/tree/master/hw/hw5)|27.02.2022 23:30 | Загрузить ноутбук в Anytask|
-|  07.02.2022  |[HW 6](https://github.com/weaselcmc/hse_ml_2021/tree/master/hw/hw6)|13.03.2022 23:30 | Загрузить ноутбук в Anytask|
+|  13.02.2022  |[HW 4](https://github.com/weaselcmc/hse_ml_2021/tree/master/hw/hw4)|13.02.2022  23:30| Загрузить ноутбук в Anytask|
+|  27.02.2022  |[HW 5](https://github.com/weaselcmc/hse_ml_2021/tree/master/hw/hw5)|27.02.2022 23:30 | Загрузить ноутбук в Anytask|
+|  13.03.2022  |[HW 6](https://github.com/weaselcmc/hse_ml_2021/tree/master/hw/hw6)|13.03.2022 23:30 | Загрузить ноутбук в Anytask|
 
 ## Полезные ссылки
 Disclaimer: ниже представлены ссылки на полезные или просто красивые ресурсы по теме, 
