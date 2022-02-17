@@ -17,7 +17,7 @@
 |27 янв |Бэггинг и случайные леса| [Lecture 8](lectures/Lecture8_ensembles.pdf) | [Seminar 8](practicals/sem_8.ipynb) | |
 |03 фев |Градиентный бустинг| [Lecture 9](lectures/Lecture9_gradboost.pdf) | [Seminar 9](practicals/sem_9.ipynb) | |
 |10 фев |Градиентный бустинг: имплементации| [Lecture 10](lectures/Lecture10_gb_part2.pdf) | [Seminar 10](practicals/sem_10_empty.ipynb) | [Seminar 10](practicals/sem_10_full.ipynb) |
-|17 фев |Отбор признаков и понижение размерности| Lecture 11](lectures/Lecture11_dim_red.pdf) | [Seminar 11](practicals/sem_11_empty.ipynb) | [Seminar 10](practicals/sem_11_full.ipynb) |
+|17 фев |Отбор признаков и понижение размерности| [Lecture 11](lectures/Lecture11_dim_red.pdf) | [Seminar 11](practicals/sem_11_empty.ipynb) | [Seminar 11](practicals/sem_11_full.ipynb) |
 |24 фев |Кластеризация| | | |
 |03 мар |Поиск аномалий| | | |
 |10 мар |Рекомендательные системы| | | |
@@ -36,8 +36,8 @@
 |  17.12.2021  |[HW 2](https://github.com/weaselcmc/hse_ml_2021/tree/master/hw/hw2)|13.01.2022  23:30| Загрузить ноутбук в Anytask|
 |  24.12.2021  |[HW 3](https://github.com/weaselcmc/hse_ml_2021/tree/master/hw/hw3)|30.01.2022  23:30| Загрузить ноутбук в Anytask|
 |  13.02.2022  |[HW 4](https://github.com/weaselcmc/hse_ml_2021/tree/master/hw/hw4)|13.02.2022  23:30| Загрузить ноутбук в Anytask|
-|  27.02.2022  |[HW 5](https://github.com/weaselcmc/hse_ml_2021/tree/master/hw/hw5)|27.02.2022 23:30 | Загрузить ноутбук в Anytask|
-|  13.03.2022  |[HW 6](https://github.com/weaselcmc/hse_ml_2021/tree/master/hw/hw6)|13.03.2022 23:30 | Загрузить ноутбук в Anytask|
+|  27.02.2022  |[HW 5](https://github.com/weaselcmc/hse_ml_2021/tree/master/hw/hw5)|27.02.2022  23:30 | Загрузить ноутбук в Anytask|
+|  13.03.2022  |[HW 6](https://github.com/weaselcmc/hse_ml_2021/tree/master/hw/hw6)|13.03.2022  23:30 | Загрузить ноутбук в Anytask|
 
 ## Полезные ссылки
 Disclaimer: ниже представлены ссылки на полезные или просто красивые ресурсы по теме, 
