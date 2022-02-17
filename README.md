@@ -17,7 +17,7 @@
 |27 янв |Бэггинг и случайные леса| [Lecture 8](lectures/Lecture8_ensembles.pdf) | [Seminar 8](practicals/sem_8.ipynb) | |
 |03 фев |Градиентный бустинг| [Lecture 9](lectures/Lecture9_gradboost.pdf) | [Seminar 9](practicals/sem_9.ipynb) | |
 |10 фев |Градиентный бустинг: имплементации| [Lecture 10](lectures/Lecture10_gb_part2.pdf) | [Seminar 10](practicals/sem_10_empty.ipynb) | [Seminar 10](practicals/sem_10_full.ipynb) |
-|17 фев |Отбор признаков и понижение размерности| | | |
+|17 фев |Отбор признаков и понижение размерности| Lecture 11](lectures/Lecture11_dim_red.pdf) | [Seminar 11](practicals/sem_11_empty.ipynb) | [Seminar 10](practicals/sem_11_full.ipynb) |
 |24 фев |Кластеризация| | | |
 |03 мар |Поиск аномалий| | | |
 |10 мар |Рекомендательные системы| | | |
