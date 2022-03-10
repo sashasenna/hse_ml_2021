@@ -20,7 +20,7 @@
 |17 фев |Отбор признаков и понижение размерности| [Lecture 11](lectures/Lecture11_dim_red.pdf) | [Seminar 11](practicals/sem_11_empty.ipynb) | [Seminar 11](practicals/sem_11_full.ipynb) |
 |24 фев |Кластеризация| [Lecture 12](lectures/Lecture12_cluster.pdf) | | [Seminar 12](practicals/sem_12_full.ipynb) |
 |03 мар |Поиск аномалий| [Lecture 13](lectures/Lecture13_anomaly.pdf) | | [Seminar 13](practicals/sem_13_full.ipynb) |
-|10 мар |Рекомендательные системы| | | |
+|10 мар |Рекомендательные системы| [Lecture 14](lectures/Lecture14-recsys.pdf) | | [Seminar 14](practicals/sem_14_recsys.ipynb) |
 |17 мар |Ранжирование| | | |
 
 ## Домашние задания
