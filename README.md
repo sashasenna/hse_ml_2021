@@ -21,7 +21,7 @@
 |24 фев |Кластеризация| [Lecture 12](lectures/Lecture12_cluster.pdf) | | [Seminar 12](practicals/sem_12_full.ipynb) |
 |03 мар |Поиск аномалий| [Lecture 13](lectures/Lecture13_anomaly.pdf) | | [Seminar 13](practicals/sem_13_full.ipynb) |
 |10 мар |Рекомендательные системы| [Lecture 14](lectures/Lecture14-recsys.pdf) | | [Seminar 14](practicals/sem_14_recsys.ipynb) |
-|17 мар |Ранжирование| [Lecture 11](lectures/Lecture15-ranking.pdf) | | [Seminar 15](practicals/sem_15_full.ipynb) |
+|17 мар |Ранжирование| [Lecture 15](lectures/Lecture15_ranking.pdf) | | [Seminar 15](practicals/sem_15_full.ipynb) |
 
 ## Домашние задания
 Ссылка на курс в Anytask: https://anytask.org/course/890
